@@ -3,7 +3,7 @@
 
 import unittest
 
-from base import BaseTestCase
+from .base import BaseTestCase
 from project import db
 from project.models import Email
 
